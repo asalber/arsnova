@@ -15,13 +15,23 @@ logoImg: "/img/arsnova-logo.png"
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
-
 # Nuevas tecnologías para fomentar la retroalimentación en el aula
 
 <div style="text-align:center">
 Autor: Alfredo Sánchez Alberca ([asalber@ceu.es](mailto:asalber@ceu.es))  
 http://aprendeconalf.es  
-<img data-src="img/arsnova-logo.png" alt="Logo de Arsnova">
+</div>
+<div></div>
+<img data-src="img/logo-cifid2.png" alt="Logo de Arsnova">
+
+---
+
+## Seguir la presentación en linea
+
+<img src="img/qr-arsnova-presentacion.svg" alt="Código QR presentación" height="400px">
+
+<div style="text-align:center">
+http://aprendeconalf.es/arsnova/
 </div>
 
 ---
@@ -38,28 +48,86 @@ La retroalimentación es esencial para asegurar un progreso sólido en cualquier
 
 <img src="img/retroalimentacion.png" alt="Manual de supervivencia para grados" height="400px">
 
-Pero, _¿cómo vencer el la timidez, la vergüenza, el miedo o la apatía para conseguir una **retroalimentación efectiva**?_
+--
+
+## Retroalimentación efectiva
+
+- Exhaustiva
+  - Contenidos
+  - Alumnos
+- Frecuente
+- Evaluable
+- Medible
+- Breve
+
+_¿Cómo vencer el la timidez, la vergüenza, el miedo, la apatía o la falta de colaboración para conseguir una **retroalimentación efectiva**?_
+
+--
+
+## Retroalimentación a través de cuestionarios de evaluación
+
+- En el aula.
+- En cada clase (al final de la clase o al comienzo de la siguiente).
+- 4 o 5 preguntas sobre los principales conceptos trabajados en clase.
+- No más de 5 o 10 minutos.
+- Evaluación in situ.
+
+Suena bien, _¿pero cómo?_
 
 ---
 
+
+[<img data-src="img/arsnova-logo.png" alt="Logo de Arsnova">](https://arsnova.thm.de/blog/en/homepage/)
+
+<img data-src="img/arsnova-movil.png" alt="Logo de Arsnova">
+
+--
+
 ## ARSnova (Audience Response System)
 
-<img data-src="img/arsnova-logo.png" alt="Logo de Arsnova">
-
+- Acceso por medio de dispositivos móviles (teléfonos, tabletas, ordenadores, ...)
+- No necesita instalación (acceso vía web)
+- No necesita registro (anónimo)
 - No necesita configuración
 - Fácil de usar
+
+--
+
+## Ventajas frente a los competidores
+
+### (kahoot, wooclap, quizshow.io, etc )
+
+- Reconoce el lenguaje de formateo markdown.
+- Reconoce código LaTeX para la escritura de Matemáticas.
+- API para la carga de cuestionarios desde otras aplicaciones.
+  - Uso de R u otras aplicaciones para la generación automática de preguntas.
 - Código abierto
 
 ---
 
-## Referencias
+## Demostración
+## http://arsnova.eu
 
-- [Python](https://www.python.org/) Sitio web de Python.
-- [Repl.it](https://repl.it/) Entorno de desarrollo web para varios lenguajes, incluido Python.
-- [Python tutor](http://pythontutor.com/) Sitio web que permite visualizar la ejecución el código Python.
-- [Tutorial de Python](https://www.tutorialpython.com/) Tutoría rápido de python.
-- [Python para todos](http://mundogeek.net/tutorial-python/) Libro de introducción a Python con muchos ejemplos. Es de licencia libre.
-- [Python para principiantes](https://www.safecreative.org/work/1207302042960-curso-python-para-principiantes) Libro de introducción Python que abarca orientación a objetos. Es de licencia libre.
-- [Python crash course](https://ehmatthes.github.io/pcc/) Libro de introducción a Python gratuito.
-- [Think python 2e](http://greenteapress.com/wp/think-python-2e/). Libro de introducción a Python que abarca también algoritmos, estructuras de datos y gráficos. Es de licencia libre.
-- [Learning Python](http://shop.oreilly.com/product/0636920028154.do) Libro de introducción a Python con enfoque de programación orientada a objetos.
+<img src="img/qr-arsnova-cuestionario.png" alt="Código QR presentación" height="400px">
+
+--
+
+## Arsnova en acción
+| | |
+|:-:|:-:|
+|![](img/arsnova-1.jpg)|![](img/arsnova-2.jpg)
+|![](img/arsnova-3.jpg)|![](img/arsnova-4.jpg)
+
+---
+
+## Conclusiones
+
+- ARSnova es una sencilla herramienta para interactuar con el usuario de manera anónima y conseguir una retroalimentación efectiva.
+- Se ha utilizado esta herramienta de manera experimental en los dos últimos cursos con buenos resultados:
+  - Valoración positiva de los alumnos
+  - Menor absentismo a clase
+
+---
+
+<section data-background-video="img/porky.mp4">
+
